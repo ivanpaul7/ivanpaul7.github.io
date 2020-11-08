@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'Paul Ivan',
+  tagline: 'Excelent',
   url: 'https://ivanpaul7.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -9,7 +9,7 @@ module.exports = {
   projectName: 'ivanpaul7.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'PI',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
